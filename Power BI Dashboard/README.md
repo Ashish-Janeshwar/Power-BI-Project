@@ -12,7 +12,7 @@ To demonstrate strong data storytelling, business intelligence, and visual analy
 
 ## 🎨 Design Note
 
-> The dashboard theme has been intentionally styled in **black and white**, inspired by Uber’s own brand color palette — creating visual consistency and a clean, professional aesthetic.
+The dashboard theme has been intentionally styled in **black and white**, inspired by Uber’s own brand color palette — creating visual consistency and a clean, professional aesthetic.
 
 ---
 
